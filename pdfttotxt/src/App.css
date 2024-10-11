@@ -1,0 +1,20 @@
+.App {
+    text-align: center;
+    margin: 50px;
+}
+
+.dropzone {
+    margin: 20px auto;
+    padding: 20px;
+    width: 300px;
+    height: 150px;
+    border: 2px dashed #aaaaaa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+p {
+    font-size: 16px;
+}
